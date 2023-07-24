@@ -8,3 +8,7 @@ send_command(self, command) - Sends an SCPI command to the instrument. set_senso
 Establish a connection with the Keithley device.
 
 Reset the Keithley instrument to its default settings. Set the Keithley instrument to use voltage as the source and current as the sensor. Run a voltage sweep and collect measurement data. Close the connection with the Keithley instrument.
+
+#muxgui.py
+
+This is a Python script that provides a graphical user interface (GUI) for controlling a multiplexer switch.
